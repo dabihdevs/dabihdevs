@@ -1,6 +1,6 @@
 ### Hello, World 👋
 
-My name is Dabih Isidori, I'm a meteorologist and atmospheric scientist.
+My name is Dabih Isidori, I'm an atmospheric scientist and a Python developer.
 
 <!--
 **dabihdevs/dabihdevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
