@@ -2,6 +2,23 @@
 
 My name is Dabih Isidori, I'm an atmospheric scientist, a designer and a Python developer. I achieved a Master's degree in Atmospheric Sciences at the university of Innsbruck (Austria): there I started learning about Python programming, data analysis and data visualization. After graduating, I started further honing my Python skills as well as my knowledge about informatics in general.
 
+### Hi there 👋, my name is Dabih Isidori
+#### meteorologist, designer and developer
+![meteorologist, designer and developer](https://github.com/dabihdevs/dabihdevs/blob/main/dabihdevs_banner.png?raw=true)
+
+I achieved a Master's degree in Atmospheric Sciences at the university of Innsbruck (Austria): there I started learning about Python programming, data analysis and data visualization. After graduating, I started further honing my Python skills as well as my knowledge about informatics in general.
+
+
+Skills: PYTHON/ C#/ INKSCAPE/ GIMP
+
+- 🔭 I’m currently working on my own videogame using Python 
+- 🌱 I’m currently learning C#, SQL, HTML, CSS 
+- ⚡ Fun fact: Dabih is the name of a star in the Capricorn constellation 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dabihdevs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dabih-isidori-5685ab150/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/lumoredelcielo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://lumoredelcielo.com/)  
+
+
 
 <!--
 **dabihdevs/dabihdevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
