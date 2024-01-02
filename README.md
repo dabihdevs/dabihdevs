@@ -1,6 +1,8 @@
-### Hello, World 👋
+### Hello, World! 👋
 
-My name is Dabih Isidori, I'm an atmospheric scientist and a Python developer.
+My name is Dabih Isidori, I'm an atmospheric scientist, a designer and a Python developer. I achieved a Master's degree in Atmospheric Sciences at the university of Innsbruck (Austria): there I started learning about Python programming, data analysis and data visualization. After graduating, I started further honing my Python skills as well as my knowledge about informatics in general.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabihdevs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dabihdevs/dabihdevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
