@@ -6,12 +6,13 @@
 I achieved a Master's degree in Atmospheric Sciences at the university of Innsbruck (Austria): there I started learning about Python programming, data analysis and data visualization. After graduating, I started further honing my Python skills as well as my knowledge about informatics in general.
 
 
-Skills:
+#### Skills:
 - 🐍 PYTHON
 - 👨‍💻 C#
 - 🖌 INKSCAPE
 - 📷 GIMP
 
+#### About me now:
 - 🔭 I’m currently working on my own videogame using Python 
 - 🌱 I’m currently learning C#, SQL, HTML, CSS 
 - ⚡ Fun fact: Dabih is the name of a star in the Capricorn constellation 
