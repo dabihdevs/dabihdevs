@@ -3,6 +3,8 @@
 ### Hello, World! 👋 My name is Dabih Isidori
 #### atmospheric scientist, designer and developer
 
+![image](https://www.codewars.com/users/dabihdevs/badges/large)
+
 I achieved a Master's degree in Atmospheric Sciences at the university of Innsbruck (Austria): there I started learning about Python programming, data analysis and data visualization. After graduating, I started further honing my Python skills as well as my knowledge about informatics in general.
 
 
