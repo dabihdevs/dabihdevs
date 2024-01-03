@@ -9,14 +9,13 @@ I achieved a Master's degree in Atmospheric Sciences at the university of Innsbr
 
 
 #### Skills:
-- 🐍 PYTHON
-- 👨‍💻 C#
-- 🖌 INKSCAPE
-- 📷 GIMP
+- 🐍 PYTHON (data analysis and visualization, machine learning models, software development)
+- 🖌 VECTOR DESIGN
+- 📷 IMAGE EDITING
 
 #### About me now:
-- 🔭 I’m currently working on my own videogame using Python 
-- 🌱 I’m currently learning C#, SQL, HTML, CSS 
+- 🔭 I’m currently creating a videogame from scratch using Python
+- 🌱 I’m currently learning C#, SQL, HTML, CSS, JS 
 - ⚡ Fun fact: Dabih is the name of a star in the Capricorn constellation 
 
 
