@@ -1,4 +1,4 @@
-![meteorologist, designer and developer](https://github.com/dabihdevs/dabihdevs/blob/main/logobanner.png?raw=true)
+![meteorologist, designer and developer](https://github.com/dabihdevs/dabihdevs/blob/main/logo-banner.png?raw=true)
 
 ### Hello, World! 👋 My name is Dabih Isidori
 #### atmospheric scientist, designer and developer
