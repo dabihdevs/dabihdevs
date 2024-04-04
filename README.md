@@ -10,7 +10,7 @@ I achieved a Master's degree in Atmospheric Sciences at the university of Innsbr
 - 🐍 PYTHON (data analysis and visualization, machine learning models, software development)
 - 👨‍💻 C/C++ (microprocessors programming using Arduino framework and PlatformIO)
 - 💻 GUI (Squareline Studio, LVGL graphic library)
-- 🖌 GRAPHIC DESIGN (Inkscape, Krita, Gimp, Canvas.com)
+- 🖌 GRAPHIC DESIGN (Inkscape, Krita, Gimp, Canva.com)
 
 #### About me now:
 - 👨‍🏫 I'm currently giving Python lectures, tailoring my courses on the needs of my students. Recently I have been creating a full Python course using Jupyter Notebooks.
