@@ -9,12 +9,14 @@ I achieved a Master's degree in Atmospheric Sciences at the university of Innsbr
 #### Skills:
 - 🐍 PYTHON (data analysis and visualization, machine learning models, software development)
 - 👨‍💻 C/C++ (microprocessors programming using Arduino framework and PlatformIO)
+- 🎮 C# (games development, websites back-end)
+- 🌍 HTML/CSS (websites front-end)
 - 💻 GUI (Squareline Studio, LVGL graphic library)
 - 🖌 GRAPHIC DESIGN (Inkscape, Krita, Gimp, Canva.com)
 
 #### About me now:
 - 👨‍🏫 I'm currently giving Python lectures, tailoring my courses on the needs of my students. Recently I have been creating a full Python course using Jupyter Notebooks.
-- ⚡ I'm also working as a freelancer on the software of a ESP32 display board. The display is needed to interact with a welding machine. I'm creating both fron-end and back-end of the software.
+- ⚡ I'm also working freelance on the software of a ESP32 display board. The display is needed to interact with a welding machine. I'm creating both front and back-end of the software.
 - 🎓 Beside that, I'm constantly honing my C/C++ and C# knowledge and skills.
 - ☂ Fun fact 1: I worked as a meteorologist in the past and I've recently joined Pretemp, an Italian association of weather forecasters particularly interested in any kind of Thunderstorms.
 - 🎤 Fun fact 2: I'm very interested in storytelling, teaching, presenting and communication in general. 
