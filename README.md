@@ -25,7 +25,7 @@ I also worked with **embedded C/C++** and **Arduino Framework** to develop the f
 
  #### Fun facts:
  - 🐉 In my free time I'm a **Game and Narrative Designer**. I design and write TTRPG adventures, worldbuilding and creating characters, game maps and items.
-   🎮 I realized a simple RPG game using ```pygame```, and I also played around with the Godot Engine, programming in C#. **One day I would really like to join a videogame project!**
+ - 🎮 I realized a simple RPG game using ```pygame```, and I also played around with the Godot Engine, programming in C#. **One day I would really like to join a team in a videogame project!**
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dabihdevs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dabih-isidori-5685ab150/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/lumoredelcielo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://lumoredelcielo.com/)  
