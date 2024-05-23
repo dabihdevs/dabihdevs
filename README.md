@@ -7,7 +7,7 @@ I achieved a **Master's degree in Atmospheric Sciences** at the university of In
 
 I worked a lot with **geospatial data and time series**, also in complex data formats like netCDF, using ```pandas``` and ```xarray```. I also realized different **data visualization projects** using Python libraries like ```matplotlib```, ```seaborn``` and ```plotly```, as well as graphic design softwares. I also know how to create **SQL queries** to pick data of interest from large databases.
 
-I also worked with **embedded C/C++** and **Arduino Framework** to develop the firmware of a LCD display microprocessor. The display serves as the user interface of a wielding machine. I created both GUI and program logic, working with data packets transmitted through UART connections.
+I also worked with **embedded C/C++** and **Arduino Framework** to develop the firmware of a LCD display microprocessor. The display serves as the user interface of a welding machine. I created both GUI and program logic, working with data packets transmitted through UART connections.
 
 
 #### Skills:
@@ -15,7 +15,7 @@ I also worked with **embedded C/C++** and **Arduino Framework** to develop the f
 - 👨‍💻 EMBEDDED C/C++ (developing microprocessors firmwares using Arduino framework and PlatformIO)
 - 🎮 C# (games development)
 - 🌍 HTML/CSS (websites front-end)
-- 💻 GUI DEVELOPMENT (Squareline Studio, LVGL graphic library)
+- 💻 GUI DEVELOPMENT (LVGL graphic library)
 - 🖌 GRAPHIC DESIGN (Inkscape, Krita, Gimp, Canva.com)
 
 #### About me now:
